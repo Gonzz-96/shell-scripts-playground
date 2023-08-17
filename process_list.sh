@@ -10,4 +10,4 @@ is_subshell() {
     fi 
 }
 
-ls; echo "Hello, world"; ps -f; is_subshell
+(ls; echo "Hello, world"; ps -f; is_subshell;)
