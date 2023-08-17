@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # This a command list does not create a new subshell.
 # If a subshell is created, the $BASH_SUBSHELL environment
 # variable is set to 1.
